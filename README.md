@@ -1,2 +1,2 @@
-# Extraction-Features
+# Extraction Features
 Extracting features from objects
